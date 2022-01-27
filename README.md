@@ -2,7 +2,7 @@
 - 👀 I’m interested in php
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 zobayer.abdullah9999@gmail.com ...
 
 <!---
 Zobayer95/Zobayer95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

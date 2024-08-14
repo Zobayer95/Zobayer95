@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zobayer Abdullah Hridoy</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-
+<image align="right" alt = "coding" width="400" src="https://www.google.com/search?client=firefox-b-d&sca_esv=9aa0eb23d282c4eb&sxsrf=ADLYWIIRTaANNbAAtL5tcwAyM28luXGqUA:1723633119042&q=coding+image&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joQcoZ-0Q2Udkt2zEybT7HdcghX_cULItgDQ-ic0tx97DazhjEcGepiAwATfo9G6CRCAw3CuxMGhix6Y2lWjj00EmmCZhetgIxbt27XRvsHvy5TkrQ&sa=X&ved=2ahUKEwjQj6LeqfSHAxXpTmwGHSwwAjwQtKgLegQIJBAB&biw=1920&bih=995&dpr=1#imgrc=lAq4GCheHuYbqM&imgdii=9x_NjLGvIbqrhM ">
 - 🔭 I’m currently working on [Ecommerce](https://mygirlco.com/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB**

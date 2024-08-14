@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zobayer Abdullah Hridoy</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-<image align="right" alt = "coding" width="400" src="https://png.pngtree.com/template/20220505/ourlarge/pngtree-programming-and-coding-banner-working-image_1312497.jpg">
+<image align="right" alt = "coding" width="400" src="https://www.shutterstock.com/image-vector/web-development-coding-programming-responsive-600nw-1449924503.jpg">
 - 🔭 I’m currently working on [Ecommerce](https://mygirlco.com/)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB**

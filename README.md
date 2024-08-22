@@ -1,6 +1,6 @@
 ![logo](https://github.com/Zobayer95/Zobayer95/blob/main/Web-development.jpg)
 <h1 align="center">Hi 👋, I'm Zobayer Abdullah Hridoy</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">Passionate Web developer from Bangladesh</h3>
 <image align="right" alt = "coding" width="400" src="https://www.shutterstock.com/image-vector/web-development-coding-programming-responsive-600nw-1449924503.jpg">
 - 🔭 I’m currently working on [Ecommerce](https://mygirlco.com/)
 

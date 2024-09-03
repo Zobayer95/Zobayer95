@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zobayer95](https://github.com/Zobayer95)
+- 👨‍💻 All of my projects are available at [Github](github.com/Zobayer95)
 
 - 💬 Ask me about **PHP, Laravel ,CodeIgniter**
 
 - 📫 How to reach me **zobayer.abdullah9999@gmail.com**
 
-- 📄 Know about my experiences [Zobayer95](https://github.com/Zobayer95/Zobayer95.github.io)
+- 📄 Know about my experiences [Zobayer95](github.com/Zobayer95/Zobayer95.github.io)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

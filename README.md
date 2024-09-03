@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zobayer95/Zobayer95.github.io](https://github.com/Zobayer95/Zobayer95.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/Zobayer95/Zobayer95.github.io](https://github.com/Zobayer95)
 
 - 💬 Ask me about **PHP, Laravel ,CodeIgniter**
 

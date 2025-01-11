@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zobayer.abdullah9999@gmail.com**
 
-- 📄 Know about my experiences [Zobayer95](github.com/Zobayer95/Zobayer95.github.io)
+- 📄 Know about my experiences [Zobayer95](https://zobayer-abdullah-hridoy.vercel.app/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

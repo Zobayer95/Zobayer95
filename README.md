@@ -2,8 +2,8 @@
 <!-- 🚀 GITHUB PROFILE README -->
 <!-- ========================= -->
 
-<h1 align="center">Hey 👋, I'm <span style="color:#38bdf8;">Your Name</span></h1>
-<h3 align="center">Digital Marketer | Developer | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#38bdf8;">Zobayer Abdullah</span></h1>
+<h3 align="center">Full Stack | Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0ea5e9&style=flat" alt="profile views" />

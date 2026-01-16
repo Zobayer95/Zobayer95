@@ -4,7 +4,7 @@
 <image align="right" alt = "coding" width="400" src="https://www.shutterstock.com/image-vector/web-development-coding-programming-responsive-600nw-1449924503.jpg">
 - 🔭 I’m currently working on https://mygirlco.com/
 
-- 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB**
+- 🌱 I’m currently learning **ReactJS, NodeJS,MongoDB,DevOps**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/Zobayer95)
 

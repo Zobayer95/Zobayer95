@@ -1,7 +1,7 @@
 <!-- Top Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+</p> 
 
 <h1 align="center">Zobayer Abdullah Hridoy</h1>
 <h3 align="center">Backend Engineer • Laravel & SaaS Systems</h3>

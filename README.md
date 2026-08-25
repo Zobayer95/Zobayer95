@@ -4,7 +4,7 @@
 </p>  
  
 <h1 align="center">Zobayer Abdullah Hridoy</h1>    
-<h3 align="center">Backend Engineer • Laravel & SaaS Systems</h3> 
+<h3 align="center">Backend Engineer • Laravel & SaaS Systems</h3>  
  
 <p align="center">
   <a href="https://github.com/Zobayer95">

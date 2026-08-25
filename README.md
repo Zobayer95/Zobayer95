@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>  
  
-<h1 align="center">Zobayer Abdullah Hridoy</h1>    
+<h1 align="center">Zobayer Abdullah Hridoy</h1>     
 <h3 align="center">Backend Engineer • Laravel & SaaS Systems</h3>  
  
 <p align="center">

@@ -8,7 +8,7 @@
        
 <p align="center">    
   <a href="https://github.com/Zobayer95">   
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> 
   </a>
   <a href="https://zobayer-abdullah-hridoy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white" />
